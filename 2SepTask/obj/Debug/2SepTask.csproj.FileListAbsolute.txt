@@ -1,0 +1,7 @@
+C:\Users\Ezizchik\source\repos\2SepTask\2SepTask\bin\Debug\2SepTask.exe.config
+C:\Users\Ezizchik\source\repos\2SepTask\2SepTask\bin\Debug\2SepTask.exe
+C:\Users\Ezizchik\source\repos\2SepTask\2SepTask\bin\Debug\2SepTask.pdb
+C:\Users\Ezizchik\source\repos\2SepTask\2SepTask\obj\Debug\2SepTask.csproj.AssemblyReference.cache
+C:\Users\Ezizchik\source\repos\2SepTask\2SepTask\obj\Debug\2SepTask.csproj.CoreCompileInputs.cache
+C:\Users\Ezizchik\source\repos\2SepTask\2SepTask\obj\Debug\2SepTask.exe
+C:\Users\Ezizchik\source\repos\2SepTask\2SepTask\obj\Debug\2SepTask.pdb
